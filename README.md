@@ -22,4 +22,4 @@ Resultados
 Los filtros demostraron ser efectivos para eliminar ruido y seleccionar componentes específicas de frecuencia.
 
 Autor
-Luz Melanie Calderón Perea
+Melanie Perea
